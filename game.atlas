@@ -1,0 +1,27 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Chief Liaf
+  rotate: false
+  xy: 524, 610
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+NationIcons/Wild tribes
+  rotate: false
+  xy: 4, 4
+  size: 400, 390
+  orig: 400, 390
+  offset: 0, 0
+  index: -1
+UnitIcons/Shaman
+  rotate: false
+  xy: 4, 402
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
